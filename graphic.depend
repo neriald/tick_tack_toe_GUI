@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1479646299 source:c:\users\chuck\documents\studies\2nd year\object oriented c++\graphic\graph.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+	<cmath>
+
+1485017245 source:c:\users\cagka\documents\studies\2nd year\object oriented c++\graphic\graph.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+	<cmath>
+
